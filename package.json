@@ -1,0 +1,44 @@
+{
+  "name": "konductv5",
+  "version": "1.0.0",
+  "description": "A modern web application for generating and managing marketing campaign IDs with advanced features",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravdani/KonductV5.git"
+  },
+  "keywords": [
+    "marketing",
+    "campaign",
+    "management",
+    "analytics",
+    "nextjs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravdani/KonductV5/issues"
+  },
+  "homepage": "https://github.com/gauravdani/KonductV5#readme",
+  "dependencies": {
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.5",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^9.26.0",
+    "eslint-config-next": "^15.3.2",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5.8.3"
+  }
+}
